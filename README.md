@@ -22,7 +22,7 @@ This folder is a repository of external toy data examples for the soil_euk data 
 - litiere_euk_samples.txt:    
         A sample (rows) by sample information (columns) table: e.g. geographic coordinates.      
 
-## BIOM input
+### BIOM input
 - litiere_euk_reads_hdf5.biom:
         Soil_euk dataset in the BIOM format.
 
