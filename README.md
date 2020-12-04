@@ -2,7 +2,7 @@
 This folder is a repository of external toy data examples for the soil_euk data from the R package metabaR:
 
 
-## Raw data tables
+## Raw data tables for the soil_euk dataset
 
 ### Basic table inputs
 - litiere_euk_cl97_agg_filt_tax.tab:    
