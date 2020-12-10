@@ -1,5 +1,5 @@
-# metabaR external data
-This folder is a repository of external toy data examples for the R package metabaR:
+# `metabaR` external data
+This folder is a repository of external toy data examples for the `R` package `metabaR`:
 
 
 ## Raw data tables for the `soil_euk` dataset
@@ -36,3 +36,8 @@ This folder is a repository of external toy data examples for the R package meta
 ## The `karst_euk` dataset
 - karst_euk.rds:    
     A metabarlist corresponding to the `karst_euk` dataset. To be loaded using the readRDS function.
+ 
+## The `h20_plants` dataset
+- h20_plants.rds:    
+    A metabarlist corresponding to the `h20_plants` dataset. To be loaded using the readRDS function.
+
