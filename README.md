@@ -1,6 +1,8 @@
 # `metabaR` external data
 This folder is a repository of external resources and toy data examples for the `R` package `metabaR`:
 
+## SILVA Taxonomy
+- release 138.1 : tax_slv_ssu_138.1.txt
 
 ## Raw data tables for the `soil_euk` dataset
 
