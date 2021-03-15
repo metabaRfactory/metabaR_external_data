@@ -1,5 +1,5 @@
 # `metabaR` external data
-This folder is a repository of external toy data examples for the `R` package `metabaR`:
+This folder is a repository of external resources and toy data examples for the `R` package `metabaR`:
 
 
 ## Raw data tables for the `soil_euk` dataset
